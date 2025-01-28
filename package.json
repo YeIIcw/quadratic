@@ -1,5 +1,5 @@
 {
-  "name": "quadratic",
+  "name": "quadratic-formula",
   "version": "1.0.0",
   "description": "A simple NPM package to calculate roots of a quadratic equation",
   "main": "index.js",
